@@ -1,0 +1,8 @@
+{
+  "name": "Asadbek Ai - Professional Video Dubbing",
+  "description": "Sun'iy intellekt yordamida videolarni o'zbek tiliga professional darajada dublyaj qilish platformasi. Gemini API va TTS texnologiyalaridan foydalanadi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
